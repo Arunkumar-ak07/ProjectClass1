@@ -9,4 +9,9 @@ private void lastname() {
 System.out.println("my last name is vijay");
 
 }
+
+private void study() {
+System.out.println("he is studying engg");
+
+}
 }
